@@ -10,28 +10,28 @@
 
 
 
-Project Name : ZUSYCO - MD
-Creator : @darkmakerofc , @mr-nima-x 
+Project Name : xero - MD
+Creator : @xero , @mr-nima-x 
 
 */
 
 module.exports = {
-  OWNER_NUMBER: "923267250374",
-  SUDO_NUMBERS : "923267250374"
+  OWNER_NUMBER: "12085813421",
+  SUDO_NUMBERS : "12085813421"
   OWNER_NAME: "『 xero』",
   BOT_NAME : "xerokhan",
-  ZUSYCO_FILE : "ZUSYCO-QR",
+  ZUSYCO_FILE : "xero-QR",
   LOGOS: {
-    ALIVE: 'https://i.ibb.co/YTWznr9/ZUSYCO-ALIVE-IMAGE-LOWQ.jpg',
+    ALIVE: 'https://i.ibb.co/YTWznr9/xero-ALIVE-IMAGE-LOWQ.jpg',
     WELCOME: 'https://i.ibb.co/PzhpBV7/WELCOME-IMAGE-LOWQ.jpg',
     GOODBYE: 'https://i.ibb.co/t8hKpcM/GOODBYE-IMAGE-LOWQ.jpg'
   },
   STOP_SEND : {
-        WELCOME_MESSAGE : true
-        GOODBYE_MESSAGE : true
+        WELCOME_MESSAGE : false
+        GOODBYE_MESSAGE : false
     },
   DESABLE_WELCOME_GOODBYE_JIDS : [],
-  TIME_ZONE :  "Asia/Colombo",
+  TIME_ZONE :  "Asia/karachi",
   WORK_TYPE : "public",
   WORK_MODE : "onlygroups",
   WORK_MODE_MESSAGE_SEND : false,
